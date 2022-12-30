@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to my portfolio 👋</h1>
 
-## Software Developer Portfolio built with Next.js
+## Software Engineer Portfolio built with Next.js
 
-## To view, **[click here](https://developer-portfolio-1hanzla100.vercel.app/)**.
+## To view, **[click here](https://michaelanbrown.netlify.app/)**.
 
 ## Sections
 
