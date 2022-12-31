@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Michaela Brown",
 	title: "Hi! I'm Michaela",
 	description:
-		"I am new to Software Engineering and love everything I have been learning so far! My goals are to be able to expand my knowledge on all things Software Engineering and build a name of myself. I am so excited for what is in store!",
+		"I am new to Software Engineering and love everything I have been learning so far! My goals are to be able to expand my knowledge on all things Software Engineering and build a name for myself. I am so excited for what is in store!",
 	resumeLink:
 		"https://docs.google.com/document/d/1n57dV30dyNzCQT8ZiuxIX7Gblwkc6K4hLaKQqDFCiVQ/edit?usp=sharing",
 };
