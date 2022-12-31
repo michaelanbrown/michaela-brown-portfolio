@@ -16,7 +16,6 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://michaelanbrown.github.io/",
 	linkedin: "https://www.linkedin.com/in/michaela-n-brown/",
 	github: "https://github.com/michaelanbrown",
 };
