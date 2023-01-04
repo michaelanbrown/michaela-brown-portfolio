@@ -109,7 +109,7 @@ export const projects = [
 		name: "Michaela's Activity Randomizer (MARS)",
 		desc: "Vanilla JavaScript project designed to help you decide an activity to do when bored!",
 		github: "https://github.com/michaelanbrown/Phase-1-Project",
-		link: "https://michaelanbrown.github.io/Phase-1-Project/",
+		link: "https://mars-michaelas-activity-randomizer.netlify.app/",
 	},
 	{
 		name: "(In progress) Travel Station",
