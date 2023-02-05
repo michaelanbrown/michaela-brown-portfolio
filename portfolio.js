@@ -112,9 +112,10 @@ export const projects = [
 		link: "https://mars-michaelas-activity-randomizer.netlify.app/",
 	},
 	{
-		name: "(In progress) Travel Station",
+		name: "Travel Station",
 		desc: "React.js and CSS are used to display destinations my boyfriend and I have traveled to, future travel plans, and core memories from each location.",
-		github: "https://github.com/michaelanbrown/Travel-Station"
+		github: "https://github.com/michaelanbrown/Travel-Station",
+		link: "https://travel-station.netlify.app/"
 	},
 ];
 
