@@ -114,6 +114,7 @@ export const projects = [
 	{
 		name: "(In progress) Travel Station",
 		desc: "React.js and CSS are used to display destinations my boyfriend and I have traveled to, future travel plans, and core memories from each location.",
+		github: "https://github.com/michaelanbrown/Travel-Station"
 	},
 ];
 
