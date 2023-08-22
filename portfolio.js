@@ -63,7 +63,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "50",
+		progressPercentage: "70",
 	},
 	{
 		Stack: "Programming",
