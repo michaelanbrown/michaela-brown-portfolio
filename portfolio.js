@@ -29,22 +29,12 @@ export const skillsSection = {
 			title: "Software Engineer",
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) in React.js"
-				),
-				emoji("⚡ Creating features to enhance the user experience using CSS, HTML, and React.js"),
-				emoji(
-					"⚡ Form the building blocks of webpages to support user needs and functionality"
-				),
-				emoji(
-					"⚡ Pioneering personalized databases through the use of Active Record, Rails, and SQLite"
-				),
-				emoji(
-					"⚡ Utilized PostgreSQL and Active Record validations to manage data"
-				),
-				emoji(
+					"⚡ Building responsive Single-Page-Apps (SPA) in React.js",
+					"⚡ Creating features to enhance the user experience using CSS, HTML, and React.js",
+					"⚡ Form the building blocks of webpages to support user needs and functionality",
+					"⚡ Pioneering personalized databases through the use of Active Record, Rails, and SQLite",
+					"⚡ Utilized PostgreSQL and Active Record validations to manage data",
 					"⚡ Achieved a positive user experience with the use of cookies and sessions through Ruby on Rails"
-				)
 			],
 			softwareSkills: [
 				
@@ -54,18 +44,10 @@ export const skillsSection = {
 			title: "Data Analysis",
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
-				emoji(
-					"⚡ Build reports utilizing SQL Server Management Studio and Databricks SQL Querying"
-				),
-				emoji(
-					"⚡ Make changes to existing reports causing processes to be expedited"
-				),
-				emoji(
-					"⚡ Utilize different functions and features in Microsoft Excel to record ongoing progress on master spreadsheets"
-				),
-				emoji(
+					"⚡ Build reports utilizing SQL Server Management Studio and Databricks SQL Querying",
+					"⚡ Make changes to existing reports causing processes to be expedited",
+					"⚡ Utilize different functions and features in Microsoft Excel to record ongoing progress on master spreadsheets",
 					"⚡ Proficient use of databases such as Encompass, Velocify, SalesForce, and SalesScreen"
-				),
 			],
 			softwareSkills: [
 				
