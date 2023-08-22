@@ -75,7 +75,7 @@ export const educationInfo = [
 	{
 		schoolName: "Flatiron School",
 		subHeader: "Software Engineering Flex Program",
-		duration: "October 2022 - Current",
+		duration: "October 2022 - July 2023",
 		desc: "Completed the course in record time",
 		grade: "Grade A",
 		descBullets: [
@@ -119,7 +119,7 @@ export const feedbacks = [
 ];
 
 // option to hide or show the ContactUs component
-export const showContactUs = true;
+export const showContactUs = false;
 
 // See object prototype on SEO.jsx page
 export const seoData = {
