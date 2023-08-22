@@ -36,6 +36,15 @@ export const skillsSection = {
 				emoji(
 					"⚡ Form the building blocks of webpages to support user needs and functionality"
 				),
+				emoji(
+					"⚡ Pioneering personalized databases through the use of Active Record, Rails, and SQLite"
+				),
+				emoji(
+					"⚡ Utilized PostgreSQL and Active Record validations to manage data"
+				),
+				emoji(
+					"⚡ Achieved a positive user experience with the use of cookies and sessions through Ruby on Rails"
+				)
 			],
 			softwareSkills: [
 				
