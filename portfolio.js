@@ -63,7 +63,7 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "70",
+		progressPercentage: "0",
 	},
 	{
 		Stack: "Programming",
@@ -97,17 +97,17 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Michaela's Activity Randomizer (MARS)",
-		desc: "Vanilla JavaScript project designed to help you decide an activity to do when bored!",
-		github: "https://github.com/michaelanbrown/Phase-1-Project",
-		link: "https://mars-michaelas-activity-randomizer.netlify.app/",
-	},
-	{
 		name: "Travel Station",
 		desc: "React.js and CSS are used to display destinations my boyfriend and I have traveled to, future travel plans, and core memories from each location.",
 		github: "https://github.com/michaelanbrown/Travel-Station",
 		link: "https://travel-station.netlify.app/"
 	},
+	{
+		name: "Michaela's Activity Randomizer (MARS)",
+		desc: "Vanilla JavaScript project designed to help you decide an activity to do when bored!",
+		github: "https://github.com/michaelanbrown/Phase-1-Project",
+		link: "https://mars-michaelas-activity-randomizer.netlify.app/",
+	}
 ];
 
 export const feedbacks = [
