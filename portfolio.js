@@ -1,4 +1,4 @@
-import emoji from "react-easy-emoji";
+// import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Michaela Brown",
@@ -125,7 +125,7 @@ export const showContactUs = false;
 export const seoData = {
 	title: "Michaela Brown",
 	description:
-		"I am new to Software Engineering and love everything I have been learning so far! My goals are to be able to expand my knowledge on all things Software Engineering and build a name of myself. I am so excited for what is in store!",
+		"Hello! I recently graduated from Flatiron School's Software Engineering flex program. Feel free to follow my journey and see what projects I create!",
 	author: "Michela Brown",
 	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpGVwAbTU4S94tNBDLDlrKdEe_AQ9EVLBGolnuUxswA&s",
 	keywords: [
