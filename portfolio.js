@@ -97,6 +97,12 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "Michaela’s Property Management System",
+		desc: "Active Record, Rails, and SQLite are brought together to build a Property Management resource that is used to track all properties one has interest in, along with the associated financial records.",
+		github: "https://github.com/michaelanbrown/phase-3-backend",
+		link: "https://www.youtube.com/watch?v=ymcZJT-86o4"
+	},
+	{
 		name: "Travel Station",
 		desc: "React.js and CSS are used to display destinations my boyfriend and I have traveled to, future travel plans, and core memories from each location.",
 		github: "https://github.com/michaelanbrown/Travel-Station",
