@@ -97,6 +97,12 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "Track Zone",
+		desc: "Ruby on Rails, in combination with PostgreSQL, are utilized to allow running athletes to create an account and cnnect with one another. They can also share their races, distances, and finishing times",
+		github: "https://github.com/michaelanbrown/track-zone-2",
+		link: "https://youtu.be/HNN2OiZ2PiI"
+	},
+	{
 		name: "Michaela’s Property Management System",
 		desc: "Active Record, Rails, and SQLite are brought together to build a Property Management resource that is used to track all properties one has interest in, along with the associated financial records.",
 		github: "https://github.com/michaelanbrown/phase-3-backend",
