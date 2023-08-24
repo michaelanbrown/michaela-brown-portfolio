@@ -98,7 +98,7 @@ export const experience = [
 export const projects = [
 	{
 		name: "Elegant Elements",
-		desc: "",
+		desc: "Stripe is implemented through Ruby on Rails to manage payments for a customizable jewelry store, and customers are able to become the artist through our user friendly React platform.",
 		github: "https://github.com/michaelanbrown/elegant-elements-2",
 		link: "https://youtu.be/hJ74cqY7nF8"
 	},
