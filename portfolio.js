@@ -97,8 +97,14 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "Elegant Elements",
+		desc: "",
+		github: "https://github.com/michaelanbrown/elegant-elements-2",
+		link: "https://youtu.be/hJ74cqY7nF8"
+	},
+	{
 		name: "Track Zone",
-		desc: "Ruby on Rails, in combination with PostgreSQL, are utilized to allow running athletes to create an account and cnnect with one another. They can also share their races, distances, and finishing times",
+		desc: "Ruby on Rails, in combination with PostgreSQL, are utilized to allow running athletes to create an account and cnnect with one another. They can also share their races, distances, and finishing times.",
 		github: "https://github.com/michaelanbrown/track-zone-2",
 		link: "https://youtu.be/HNN2OiZ2PiI"
 	},
