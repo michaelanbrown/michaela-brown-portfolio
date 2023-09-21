@@ -80,8 +80,8 @@ export const educationInfo = [
 		desc: "Completed the course in record time",
 		grade: "Grade A",
 		descBullets: [
-			"Managed a full-time job, family, friends, activity, and school",
-			"Developed a love for computers and software",
+			"Managed a full-time job, family, friends, activity, and school.",
+			"Developed a love for computers and software.",
 		],
 	},
 ];
