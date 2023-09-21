@@ -34,7 +34,8 @@ export const skillsSection = {
 					"⚡ Form the building blocks of webpages to support user needs and functionality",
 					"⚡ Pioneering personalized databases through the use of Active Record, Rails, and SQLite",
 					"⚡ Utilized PostgreSQL and Active Record validations to manage data",
-					"⚡ Achieved a positive user experience with the use of cookies and sessions through Ruby on Rails"
+					"⚡ Achieved a positive user experience with the use of cookies and sessions through Ruby on Rails",
+					"⚡ Currently learning Python"
 			],
 			softwareSkills: [
 				
