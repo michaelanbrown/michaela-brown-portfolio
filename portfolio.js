@@ -45,10 +45,10 @@ export const skillsSection = {
 			title: "Data Analysis",
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
-					"⚡ Build reports utilizing SQL Server Management Studio and Databricks SQL Querying",
-					"⚡ Make changes to existing reports causing processes to be expedited",
-					"⚡ Utilize different functions and features in Microsoft Excel to record ongoing progress on master spreadsheets",
-					"⚡ Proficient use of databases such as Encompass, Velocify, SalesForce, and SalesScreen"
+					"⚡ Build reports utilizing SQL Server Management Studio and Databricks SQL Querying.",
+					"⚡ Make changes to existing reports causing processes to be expedited.",
+					"⚡ Utilize different functions and features in Microsoft Excel to record ongoing progress on master spreadsheets.",
+					"⚡ Proficient use of databases such as Encompass, Velocify, SalesForce, and SalesScreen."
 			],
 			softwareSkills: [
 				
