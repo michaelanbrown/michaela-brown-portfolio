@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I am new to Software Engineering and love everything I have been learning so far! My goals are to be able to expand my knowledge on all things Software Engineering and build a name for myself. I am so excited for what is in store!",
 	resumeLink:
-		"https://docs.google.com/document/d/18LF08JQXPDsjicF55_HHio9V16GpsOHK-59wzYjArsI/edit?usp=sharing",
+		"https://docs.google.com/document/d/17xFfttx5XNPknEBLNACjRuvnSC5sjzJz/edit?usp=sharing&ouid=117852654085108182815&rtpof=true&sd=true",
 };
 
 export const openSource = {
@@ -146,7 +146,7 @@ export const seoData = {
 	description:
 		"Hello! I recently graduated from Flatiron School's Software Engineering flex program. Feel free to follow my journey and see what projects I create!",
 	author: "Michela Brown",
-	image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTpGVwAbTU4S94tNBDLDlrKdEe_AQ9EVLBGolnuUxswA&s",
+	image: "https://encrypted-tbn0.gstatic.crom/images?q=tbn:ANd9GcQTpGVwAbTU4S94tNBDLDlrKdEe_AQ9EVLBGolnuUxswA&s",
 	keywords: [
 		"Michaela",
 		"Michaela Brown",
