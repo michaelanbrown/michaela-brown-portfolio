@@ -88,10 +88,17 @@ export const educationInfo = [
 
 export const experience = [
 	{
-		role: "Strategic Soltuions Specialist",
+		role: "Technology Associate",
+		company: "Liberty Mutual",
+		companylogo: "/img/icons/Liberty.png",
+		date: "July 2024 - Current",
+		desc: "Leveraged Alfresco’s API to fetch document metadata and provide a comprehensive dashboard in PowerBI. This offered valuable insights to stakeholders for effective archiving strategies and facilitation of chargebacks to business groups based on storage usage.",
+	},
+	{
+		role: "Strategic Support Specialist II",
 		company: "GoodLeap",
 		companylogo: "/img/icons/goodleap.PNG",
-		date: "December 2020 - Current",
+		date: "December 2020 - July 2024",
 		desc: "I utilize SQL Server Management Studio and Databricks querying to build new reports and make edits on exisitng reports in order to promote increased efficiency within our sales department.",
 	},
 ];
