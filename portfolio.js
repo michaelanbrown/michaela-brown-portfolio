@@ -90,7 +90,7 @@ export const experience = [
 	{
 		role: "Technology Associate",
 		company: "Liberty Mutual",
-		companylogo: "/img/icons/Liberty.png",
+		companylogo: "public/img/icons/Liberty.png",
 		date: "July 2024 - Current",
 		desc: "Leveraged Alfresco’s API to fetch document metadata and provide a comprehensive dashboard in PowerBI. This offered valuable insights to stakeholders for effective archiving strategies and facilitation of chargebacks to business groups based on storage usage.",
 	},
@@ -104,6 +104,11 @@ export const experience = [
 ];
 
 export const projects = [
+	{
+		name: "ITT Small Claims SPA",
+		desc: "Utilized AWS, React, and API architecture to successfully display claims information in a user-friendly platform.",
+		github: "https://github.com/Michaela-Brown_lmig/eastreactapp"
+	},
 	{
 		name: "Elegant Elements",
 		desc: "Stripe is implemented through Ruby on Rails to manage payments for a customizable jewelry store, and customers are able to become the artist through our user friendly React platform.",
