@@ -90,7 +90,7 @@ export const experience = [
 	{
 		role: "Technology Associate",
 		company: "Liberty Mutual",
-		companylogo: "public/img/icons/Liberty.png",
+		companylogo: "/img/icons/Liberty.png",
 		date: "July 2024 - Current",
 		desc: "Leveraged Alfresco’s API to fetch document metadata and provide a comprehensive dashboard in PowerBI. This offered valuable insights to stakeholders for effective archiving strategies and facilitation of chargebacks to business groups based on storage usage.",
 	},
